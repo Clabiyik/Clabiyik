@@ -1,4 +1,4 @@
-[![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)](https://github.com/Clabiyik)
+[![MasterHead](https://i.gifer.com/origin/22/22657b8a577f858827c5d46dac32cf53.gif)](https://github.com/Clabiyik)
 <h1 align="center">Hi 👋, I'm Çağatay Palabıyık</h1>
 <h3 align="center">A passionate Android developer from Turkiye</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/tZ2Xd8LqAnMAAAAd/typing-fast.gif"
