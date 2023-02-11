@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Çağatay Palabıyık</h1>
-<h3 align="center">A passionate Android developer from Turkiye</h3>
+<h3 align="center">A passionate Web developer from Turkiye</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/tZ2Xd8LqAnMAAAAd/typing-fast.gif"
 
 
