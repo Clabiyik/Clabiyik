@@ -6,11 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clabiyik&label=Profile%20views&color=0e75b6&style=flat" alt="clabiyik" /> </p>
 
-- 🔭 I’m currently working on [ARIZA KAYIT](ASFASFASFASF.com)
+- 🔭 I’m currently working on Javascript
 
-- 🌱 I’m currently learning **Kotlin,Java**
-
-- 💬 Ask me about **Android**
+- 🌱 I’m currently learning **Javascript,.NET CORE**
 
 - 📫 How to reach me **cagatay.plabiyik@gmail.com**
 
