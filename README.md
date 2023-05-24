@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Javascript
 
-- 🌱 I’m currently learning **Javascript,.NET CORE**
+- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **cagatay.plabiyik@gmail.com**
 
